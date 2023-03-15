@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppAula</string>
+    <string name="txtNome">Área de Cadastro</string>
+    <string name="txtNomeMsg">Nome:</string>
+    <string name="txtEndereçoMsg">Endereço:</string>
+    <string name="txtBairroMsg">Bairro:</string>
+    <string name="txtCidadeMsg">Cidade:</string>
+    <string name="txtEstadoMsg">Estado:</string>
+    <string name="txtCepMsg">CEP:</string>
+    <string name="btnCadastrar">Cadastrar</string>
+
+</resources>
